@@ -35,7 +35,7 @@ Power Query: To manipulate and transform the data for analysis.
 
 Example of the main dashboard view showcasing overall spending trends.
 
-<img width="1277" height="720" alt="ME" src="https://github.com/user-attachments/assets/f993157a-81f5-47b4-b04b-fb24ea2fe4bc" />
+<img width="1277" height="720" alt="ME" src="https://github.com/user-attachments/assets/51c148f2-84a5-4194-a4ea-f2d3517c6d88" />
 
 ## Insights / Observations
 
