@@ -20,10 +20,10 @@ Transformed self-recorded personal expenses over 2021–2022 into a dynamic Powe
 - **Slicers & Filters**: slicers by year, month, and category.
 
 ## Tools & Technologies
-- **Microsoft Excel**(data organization)
-- **Power Query**(data preparation/transformation)
-- **Power BI Desktop**(dashboard creation)
-- **DAX**(calculated measures)
+- **Microsoft Excel** (data organization)
+- **Power Query** (data preparation/transformation)
+- **Power BI Desktop** (dashboard creation)
+- **DAX** (calculated measures)
 
 ## Data Source & Preparation
 - The data was self-collected and recorded in an Excel file for two semesters of my college life.
