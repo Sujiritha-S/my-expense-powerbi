@@ -26,9 +26,8 @@ Transformed self-recorded personal expenses over 2021–2022 into a dynamic Powe
 - **DAX** (calculated measures)
 
 ## Data Source & Preparation
-- The data was self-collected and recorded in an Excel file for two semesters of my college life.
-- I tracked all types of spending, daily expenses like food and transportation.
-- The raw data was initially recorded in a basic format, and after learning Power BI, I organized it in Excel and used Power BI to create the interactive dashboard.
+- Expense data for 2021–2022 recorded in Excel and structured for analysis. 
+- Cleaned and transformed using Power Query, then visualized in an interactive Power BI dashboard.
 
 ## Note
 The data in this project does not include any direct college-related expenses such as tuition fees, books, or academic materials. Instead, it focuses on personal spending outside of the official college costs, such as daily living expenses, food, transportation, entertainment, and other non-college-related costs incurred while attending college.
