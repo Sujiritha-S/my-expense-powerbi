@@ -3,6 +3,9 @@
 ## Project Overview
 This is my first Power BI project, where I transformed self-recorded data of my expenses over a span of a year into a dynamic Power BI dashboard. Initially, I tracked these expenses informally, documenting various types of spending for personal use. Upon learning Power BI, I decided to organize and analyze this data in a more meaningful way by creating a comprehensive dashboard to visualize spending trends.
 
+## Dashboard Preview
+<img width="1277" height="720" alt="ME" src="https://github.com/user-attachments/assets/51c148f2-84a5-4194-a4ea-f2d3517c6d88" />
+
 ## Files Included
 - `My Expense.pbix` - Dashboard file
 - `My Expense.xlsx` - Data Source
@@ -31,9 +34,6 @@ This is my first Power BI project, where I transformed self-recorded data of my 
 - **Spending Trends**: The dashboard reveals how my spending changed over two semesters of my college years, with notable spikes in certain periods (e.g., the start of a semester).
 - **Category Breakdown**: Food and transport formed the largest share of my expenses
 - **Financial Planning**: This project helped me understand my spending behavior and prompted me to plan better for future expenses.
-
-## Dashboard Preview
-<img width="1277" height="720" alt="ME" src="https://github.com/user-attachments/assets/51c148f2-84a5-4194-a4ea-f2d3517c6d88" />
 
 ## Note
 The data in this project does not include any direct college-related expenses such as tuition fees, books, or academic materials. Instead, it focuses on personal spending outside of the official college costs, such as daily living expenses, food, transportation, entertainment, and other non-college-related costs incurred while attending college.
